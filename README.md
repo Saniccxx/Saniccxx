@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanuuu
-- 👀 I’m interested in programming, creating servers and just IT managing
+- 👀 I’m interested in programming, creating servers
 - 🌱 I’m currently learning Python and Linux
 - 😄 Pronouns: he/him
 
