@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Sanuuu
-- 👀 I’m interested in programming, creating servers
-- 🌱 I’m currently learning Python and Linux
+- 👋 Hi, I’m Oleksandr
+- 👀 I’m interested in programming, bot creation, web development and creating servers
 - 😄 Pronouns: he/him
 
 <!---
